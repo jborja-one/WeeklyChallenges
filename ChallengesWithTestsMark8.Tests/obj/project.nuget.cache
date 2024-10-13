@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ad8mGhKRjnLBvqZhgJTN/DusHOEp1GQhyl1w6yUQA99rI4Pp+kqqxZhEtMZsD0LNJ4XKi6ZDKEVvMXMxLJ4Suw==",
+  "dgSpecHash": "wBSvurUCpPo=",
   "success": true,
   "projectFilePath": "/Users/borjas/Documents/True Coders/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
   "expectedPackageFiles": [
@@ -103,7 +103,9 @@
     "/Users/borjas/.nuget/packages/xunit.core/2.4.0/xunit.core.2.4.0.nupkg.sha512",
     "/Users/borjas/.nuget/packages/xunit.extensibility.core/2.4.0/xunit.extensibility.core.2.4.0.nupkg.sha512",
     "/Users/borjas/.nuget/packages/xunit.extensibility.execution/2.4.0/xunit.extensibility.execution.2.4.0.nupkg.sha512",
-    "/Users/borjas/.nuget/packages/xunit.runner.visualstudio/2.4.0/xunit.runner.visualstudio.2.4.0.nupkg.sha512"
+    "/Users/borjas/.nuget/packages/xunit.runner.visualstudio/2.4.0/xunit.runner.visualstudio.2.4.0.nupkg.sha512",
+    "/Users/borjas/.nuget/packages/microsoft.netcore.app.ref/6.0.35/microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "/Users/borjas/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.35/microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512"
   ],
   "logs": []
 }
