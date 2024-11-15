@@ -1373,10 +1373,7 @@
       },
       "ChallengesWithTestsMark8/1.0.0": {
         "runtime": {
-          "ChallengesWithTestsMark8.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "ChallengesWithTestsMark8.dll": {}
         }
       }
     }

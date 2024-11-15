@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYrKmVxLTEA=",
+  "dgSpecHash": "oPqsmMpwBRaKRqtjyAhnyHvDo5DPanf7sx2g0FzUyOHJAJX8gNNl3/aceM07552dwfA9MqK2hnHnb/WD5JsanA==",
   "success": true,
   "projectFilePath": "/Users/borjas/Documents/True Coders/Repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
-  "expectedPackageFiles": [
-    "/Users/borjas/.nuget/packages/microsoft.netcore.app.ref/6.0.35/microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
-    "/Users/borjas/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.35/microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
-    "/Users/borjas/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.35/microsoft.netcore.app.host.osx-x64.6.0.35.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

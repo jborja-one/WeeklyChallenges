@@ -101,5 +101,4 @@
 /Users/borjas/Documents/True Coders/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.pdb
 /Users/borjas/Documents/True Coders/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
 /Users/borjas/Documents/True Coders/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ref/ChallengesWithTestsMark8.Tests.dll
-/Users/borjas/Documents/True Coders/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.sourcelink.json
-/Users/borjas/Documents/True Coders/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/Challeng.F01045AE.Up2Date
+/Users/borjas/Documents/True Coders/Repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.csproj.CopyComplete

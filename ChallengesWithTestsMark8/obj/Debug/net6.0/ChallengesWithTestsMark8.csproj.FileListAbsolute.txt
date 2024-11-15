@@ -12,4 +12,4 @@
 /Users/borjas/Documents/True Coders/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.pdb
 /Users/borjas/Documents/True Coders/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.genruntimeconfig.cache
 /Users/borjas/Documents/True Coders/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ref/ChallengesWithTestsMark8.dll
-/Users/borjas/Documents/True Coders/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.sourcelink.json
+/Users/borjas/Documents/True Coders/Repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.AssemblyReference.cache
