@@ -1,33 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
-
-namespace ChallengesWithTestsMark8
+using System.Linq;namespace ChallengesWithTestsMark8
 {
     public class ChallengesSet06
     {
         public bool CollectionContainsWord(IEnumerable<string> words, string word, bool ignoreCase)
-        {
-            throw new NotImplementedException();
+        {            if (words == null) return false;            if (ignoreCase)            {                return words.Any(w => string.Equals(w, word, StringComparison.OrdinalIgnoreCase));            }            return words.Contains(word);
         }
 
         public bool IsPrimeNumber(int num)
-        {
-            throw new NotImplementedException();
+        {            if (num <= 1) return false;            for (int i = 2; i <= Math.Sqrt(num); i++)            {                if (num % i == 0) return false;            }            return true;
         }
 
         public int IndexOfLastUniqueLetter(string str)
-        {
-            throw new NotImplementedException();
+        {            if (string.IsNullOrEmpty(str)) return -1;            var charCount = str.GroupBy(c => c).ToDictionary(g => g.Key, g => g.Count());            for (int i = str.Length - 1; i >= 0; i--)            {                if (charCount[str[i]] == 1)                {                    return i;                }            }            return -1;
         }
 
         public int MaxConsecutiveCount(int[] numbers)
-        {
-            throw new NotImplementedException();
+        {            if (numbers == null || numbers.Length == 0) return 0;            int maxCount = 1;            int currentCount = 1;            for (int i = 1; i < numbers.Length; i++)            {                if (numbers[i] == numbers[i - 1])                {                    currentCount++;                    maxCount = Math.Max(maxCount, currentCount);                }                else                {                    currentCount = 1;                }            }            return maxCount;
         }
 
         public double[] GetEveryNthElement(List<double> elements, int n)
-        {
-            throw new NotImplementedException();
+        {            if (elements == null || n <= 0) return new double[] { };            var result = new List<double>();            for (int i = n - 1; i < elements.Count; i += n)            {                result.Add(elements[i]);            }            return result.ToArray();
         }
     }
 }
